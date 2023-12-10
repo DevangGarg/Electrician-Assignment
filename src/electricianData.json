@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Digvijay",
+    "phoneNumber": "6161232524",
+    "zone": [],
+    "grievanceElectrician": true,
+    "assignedSites": []
+  },
+  {
+    "name": "Pranav",
+    "phoneNumber": "6161232524",
+    "zone": [],
+    "grievanceElectrician": true,
+    "assignedSites": []
+  },
+  {
+    "name": "Sidharth",
+    "phoneNumber": "6161232524",
+    "zone": ["NOIDA", "GHAZIABAD"],
+    "grievanceElectrician": false,
+    "assignedSites": []
+  },
+  {
+    "name": "Javed",
+    "phoneNumber": "6161232524",
+    "zone": ["GURGAON"],
+    "grievanceElectrician": false,
+    "assignedSites": []
+  }
+]
